@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OldEagle83
+- 👋 Hi, I’m John
 - 👀 I’m interested in cryptography and data structures
 - 🌱 I’m currently studying AWS
 - 💞️ I’m looking to collaborate on Python projects
